@@ -44,13 +44,13 @@ I'm always excited to collaborate on innovative AI projects or tech-driven solut
 
 ## 🎓 Education  
 **B.Tech in Computer Science**  
-Geethanjali College of Engineering and Technology (2022 – 2026)  
+Geethanjali College of Engineering and Technology (2022 – 2026) 
 
 ---
 
 ## 🌟 Internship  
 **AI Intern – Infosys**  
-Duration: 1 Month  
+Duration: 3 Months  
 
 **Project:** Video to Reels Converter AI  
 - Developed AI system converting long videos into short, engaging 30-second reels.  
@@ -70,7 +70,7 @@ Duration: 1 Month
 | 🛡️ **Gun Detection System**               | Real-time gun detection from video streams.                                                   | TensorFlow, OpenCV, Roboflow                            |
 | 🔌 **USB Insertion Detection System**     | Monitors USB insertions & sends real-time email alerts.                                      | PyWin32, smtplib, Task Scheduler                        |
 | 🎨 **Text to Image Generator**            | Generates AI art from text prompts with GUI.                                                 | Tkinter, Stable Diffusion, Diffusers, PIL              |
-| 🤖 **AI Personal Assistant – Atom**       | Voice-controlled desktop assistant performing automation, queries, and image generation.     | Python, Tkinter, SpeechRecognition, TTS, Hugging Face  |
+| 🤖 **AI Personal Assistant – Atom** (Working)      | Voice-controlled desktop assistant performing automation, queries, and image generation.     | Python, Tkinter, SpeechRecognition, TTS, Hugging Face  |
 
 
 ---
