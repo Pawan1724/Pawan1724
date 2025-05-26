@@ -5,7 +5,7 @@
 <table width="100%" style="table-layout: fixed; height: 550px;">
   <tr>
     <td width="60%" style="padding: 40px; vertical-align: top;">
-      <h1 style="margin-bottom: 0; font-size: 4.5rem; font-weight: 900;">👋 Salikanti Pawan Kumar</h1>
+      <h1 style="margin-bottom: 0; font-size: 4.5rem; font-weight: 900;">👨‍💼 Salikanti Pawan Kumar</h1>
       <h3 style="margin-top: 15px; color: #6c757d; font-size: 2.5rem; font-weight: 600;">
         Software Developer | Machine Learning Engineer
       </h3>
